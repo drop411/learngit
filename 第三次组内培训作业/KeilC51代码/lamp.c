@@ -3,9 +3,7 @@
 #define LED_PORT			P2
 
 void Delay(void);
-void FlashLed1(void);
-void FlashLed2(void);
-
+void FlashLed(void);
 
 void main(void)
 {
